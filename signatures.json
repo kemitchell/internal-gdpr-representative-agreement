@@ -1,0 +1,18 @@
+[
+  {
+    "header": "The parties are singing this agreement on the dates by their signatures.",
+    "term": "Company",
+    "information": [
+      "date",
+      "email"
+    ]
+  },
+  {
+    "samePage": true,
+    "term": "Representative",
+    "information": [
+      "date",
+      "email"
+    ]
+  }
+]
